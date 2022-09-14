@@ -1,0 +1,15 @@
+hero{
+    height: 100vh;
+    width: 100%;
+    justify-content: center
+} 
+h2{font-style: oblique;
+
+}
+nav ul li
+{display: inline-flex;
+    padding: 10px 22px;
+    background-color: rgb(129, 15, 15);
+
+
+}
